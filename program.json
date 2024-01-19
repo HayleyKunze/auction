@@ -1,6 +1,7 @@
 {
-  "program": "auction.aleo",
+# "program": "auction.aleo",
   "version": "0.0.0",
   "description": "",
   "license": "MIT"
 }
+ 
